@@ -5,7 +5,7 @@ account: jsotelomcpsa
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14177241
-bundleId: 9902671
+bundleId: 9902768
 url: https://jsotelomcpsa.shinyapps.io/APR_2024/
 version: 1
 asMultiple: FALSE
